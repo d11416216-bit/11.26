@@ -5,7 +5,7 @@
         static void Main()
         {
             
-            //hanoi(4, from: 'A', to: 'C', aux: 'B'); 
+            hanoi(4, from: 'A', to: 'C', aux: 'B'); 
 
             void hanoi(int n, char from, char to, char aux)
             {
